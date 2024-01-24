@@ -1,2 +1,2 @@
 # Calculator
-https://thatdev07.github.io/Calculator/
+https://thatdev05.github.io/Calculator/
